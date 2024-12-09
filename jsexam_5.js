@@ -30,18 +30,25 @@
 
 
 // 2. Тапсырма: Супермаркеттің жеңілдіктері
-function skidka() {
-    let num1 = +prompt("san engiz:")
-    let i = 1;
-    while (true) {
-        if (num1 > 5000 ) {
-            alert(num1 * 0.9)
-        } else if (num1 > 10000) {
-            num1 * 0.8
-        } else if (num1 > 20000) {
-            num1 * 0.7
-        }
-        i++
-    }
-}
-skidka();
+// function skidka() {
+//     let num1 = +prompt("san engiz:")
+//     let i = 1;
+//     while (true) {
+//         if (num1 > 5000 ) {
+//             alert(num1 * 0.9)
+//         } else if (num1 > 10000) {
+//             num1 * 0.8
+//         } else if (num1 > 20000) {
+//             num1 * 0.7
+//         }
+//         i++
+//     }
+// }
+// skidka();
+
+
+
+
+
+
+
